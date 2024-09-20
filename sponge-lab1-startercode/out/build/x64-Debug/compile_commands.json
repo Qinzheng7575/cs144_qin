@@ -1,0 +1,164 @@
+[
+{
+  "directory": "D:/Z7Z8/VSproj/CS144/sponge-lab1-startercode/sponge-lab1-startercode/out/build/x64-Debug",
+  "command": "D:\\VS\\VS2022\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\tcp_helpers -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast /MDd /Zi /Ob0 /Od /RTC1 -ggdb3 -Og -std:c++17 /Folibsponge\\CMakeFiles\\sponge.dir\\byte_stream.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\byte_stream.cc",
+  "file": "D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\byte_stream.cc",
+  "output": "libsponge\\CMakeFiles\\sponge.dir\\byte_stream.cc.obj"
+},
+{
+  "directory": "D:/Z7Z8/VSproj/CS144/sponge-lab1-startercode/sponge-lab1-startercode/out/build/x64-Debug",
+  "command": "D:\\VS\\VS2022\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\tcp_helpers -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast /MDd /Zi /Ob0 /Od /RTC1 -ggdb3 -Og -std:c++17 /Folibsponge\\CMakeFiles\\sponge.dir\\stream_reassembler.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\stream_reassembler.cc",
+  "file": "D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\stream_reassembler.cc",
+  "output": "libsponge\\CMakeFiles\\sponge.dir\\stream_reassembler.cc.obj"
+},
+{
+  "directory": "D:/Z7Z8/VSproj/CS144/sponge-lab1-startercode/sponge-lab1-startercode/out/build/x64-Debug",
+  "command": "D:\\VS\\VS2022\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\tcp_helpers -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast /MDd /Zi /Ob0 /Od /RTC1 -ggdb3 -Og -std:c++17 /Folibsponge\\CMakeFiles\\sponge.dir\\util\\address.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util\\address.cc",
+  "file": "D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util\\address.cc",
+  "output": "libsponge\\CMakeFiles\\sponge.dir\\util\\address.cc.obj"
+},
+{
+  "directory": "D:/Z7Z8/VSproj/CS144/sponge-lab1-startercode/sponge-lab1-startercode/out/build/x64-Debug",
+  "command": "D:\\VS\\VS2022\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\tcp_helpers -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast /MDd /Zi /Ob0 /Od /RTC1 -ggdb3 -Og -std:c++17 /Folibsponge\\CMakeFiles\\sponge.dir\\util\\buffer.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util\\buffer.cc",
+  "file": "D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util\\buffer.cc",
+  "output": "libsponge\\CMakeFiles\\sponge.dir\\util\\buffer.cc.obj"
+},
+{
+  "directory": "D:/Z7Z8/VSproj/CS144/sponge-lab1-startercode/sponge-lab1-startercode/out/build/x64-Debug",
+  "command": "D:\\VS\\VS2022\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\tcp_helpers -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast /MDd /Zi /Ob0 /Od /RTC1 -ggdb3 -Og -std:c++17 /Folibsponge\\CMakeFiles\\sponge.dir\\util\\eventloop.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util\\eventloop.cc",
+  "file": "D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util\\eventloop.cc",
+  "output": "libsponge\\CMakeFiles\\sponge.dir\\util\\eventloop.cc.obj"
+},
+{
+  "directory": "D:/Z7Z8/VSproj/CS144/sponge-lab1-startercode/sponge-lab1-startercode/out/build/x64-Debug",
+  "command": "D:\\VS\\VS2022\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\tcp_helpers -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast /MDd /Zi /Ob0 /Od /RTC1 -ggdb3 -Og -std:c++17 /Folibsponge\\CMakeFiles\\sponge.dir\\util\\file_descriptor.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util\\file_descriptor.cc",
+  "file": "D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util\\file_descriptor.cc",
+  "output": "libsponge\\CMakeFiles\\sponge.dir\\util\\file_descriptor.cc.obj"
+},
+{
+  "directory": "D:/Z7Z8/VSproj/CS144/sponge-lab1-startercode/sponge-lab1-startercode/out/build/x64-Debug",
+  "command": "D:\\VS\\VS2022\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\tcp_helpers -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast /MDd /Zi /Ob0 /Od /RTC1 -ggdb3 -Og -std:c++17 /Folibsponge\\CMakeFiles\\sponge.dir\\util\\parser.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util\\parser.cc",
+  "file": "D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util\\parser.cc",
+  "output": "libsponge\\CMakeFiles\\sponge.dir\\util\\parser.cc.obj"
+},
+{
+  "directory": "D:/Z7Z8/VSproj/CS144/sponge-lab1-startercode/sponge-lab1-startercode/out/build/x64-Debug",
+  "command": "D:\\VS\\VS2022\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\tcp_helpers -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast /MDd /Zi /Ob0 /Od /RTC1 -ggdb3 -Og -std:c++17 /Folibsponge\\CMakeFiles\\sponge.dir\\util\\socket.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util\\socket.cc",
+  "file": "D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util\\socket.cc",
+  "output": "libsponge\\CMakeFiles\\sponge.dir\\util\\socket.cc.obj"
+},
+{
+  "directory": "D:/Z7Z8/VSproj/CS144/sponge-lab1-startercode/sponge-lab1-startercode/out/build/x64-Debug",
+  "command": "D:\\VS\\VS2022\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\tcp_helpers -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast /MDd /Zi /Ob0 /Od /RTC1 -ggdb3 -Og -std:c++17 /Folibsponge\\CMakeFiles\\sponge.dir\\util\\tun.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util\\tun.cc",
+  "file": "D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util\\tun.cc",
+  "output": "libsponge\\CMakeFiles\\sponge.dir\\util\\tun.cc.obj"
+},
+{
+  "directory": "D:/Z7Z8/VSproj/CS144/sponge-lab1-startercode/sponge-lab1-startercode/out/build/x64-Debug",
+  "command": "D:\\VS\\VS2022\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\tcp_helpers -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast /MDd /Zi /Ob0 /Od /RTC1 -ggdb3 -Og -std:c++17 /Folibsponge\\CMakeFiles\\sponge.dir\\util\\util.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util\\util.cc",
+  "file": "D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util\\util.cc",
+  "output": "libsponge\\CMakeFiles\\sponge.dir\\util\\util.cc.obj"
+},
+{
+  "directory": "D:/Z7Z8/VSproj/CS144/sponge-lab1-startercode/sponge-lab1-startercode/out/build/x64-Debug",
+  "command": "D:\\VS\\VS2022\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\tcp_helpers -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast /MDd /Zi /Ob0 /Od /RTC1 -ggdb3 -Og -std:c++17 /Foapps\\CMakeFiles\\webget.dir\\webget.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\apps\\webget.cc",
+  "file": "D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\apps\\webget.cc",
+  "output": "apps\\CMakeFiles\\webget.dir\\webget.cc.obj"
+},
+{
+  "directory": "D:/Z7Z8/VSproj/CS144/sponge-lab1-startercode/sponge-lab1-startercode/out/build/x64-Debug",
+  "command": "D:\\VS\\VS2022\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\tcp_helpers -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast /MDd /Zi /Ob0 /Od /RTC1 -ggdb3 -Og -std:c++17 /Fotests\\CMakeFiles\\spongechecks.dir\\byte_stream_test_harness.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\tests\\byte_stream_test_harness.cc",
+  "file": "D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\tests\\byte_stream_test_harness.cc",
+  "output": "tests\\CMakeFiles\\spongechecks.dir\\byte_stream_test_harness.cc.obj"
+},
+{
+  "directory": "D:/Z7Z8/VSproj/CS144/sponge-lab1-startercode/sponge-lab1-startercode/out/build/x64-Debug",
+  "command": "D:\\VS\\VS2022\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\tcp_helpers -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast /MDd /Zi /Ob0 /Od /RTC1 -ggdb3 -Og -std:c++17 /Fotests\\CMakeFiles\\fsm_stream_reassembler_single.dir\\fsm_stream_reassembler_single.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\tests\\fsm_stream_reassembler_single.cc",
+  "file": "D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\tests\\fsm_stream_reassembler_single.cc",
+  "output": "tests\\CMakeFiles\\fsm_stream_reassembler_single.dir\\fsm_stream_reassembler_single.cc.obj"
+},
+{
+  "directory": "D:/Z7Z8/VSproj/CS144/sponge-lab1-startercode/sponge-lab1-startercode/out/build/x64-Debug",
+  "command": "D:\\VS\\VS2022\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\tcp_helpers -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast /MDd /Zi /Ob0 /Od /RTC1 -ggdb3 -Og -std:c++17 /Fotests\\CMakeFiles\\fsm_stream_reassembler_seq.dir\\fsm_stream_reassembler_seq.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\tests\\fsm_stream_reassembler_seq.cc",
+  "file": "D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\tests\\fsm_stream_reassembler_seq.cc",
+  "output": "tests\\CMakeFiles\\fsm_stream_reassembler_seq.dir\\fsm_stream_reassembler_seq.cc.obj"
+},
+{
+  "directory": "D:/Z7Z8/VSproj/CS144/sponge-lab1-startercode/sponge-lab1-startercode/out/build/x64-Debug",
+  "command": "D:\\VS\\VS2022\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\tcp_helpers -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast /MDd /Zi /Ob0 /Od /RTC1 -ggdb3 -Og -std:c++17 /Fotests\\CMakeFiles\\fsm_stream_reassembler_dup.dir\\fsm_stream_reassembler_dup.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\tests\\fsm_stream_reassembler_dup.cc",
+  "file": "D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\tests\\fsm_stream_reassembler_dup.cc",
+  "output": "tests\\CMakeFiles\\fsm_stream_reassembler_dup.dir\\fsm_stream_reassembler_dup.cc.obj"
+},
+{
+  "directory": "D:/Z7Z8/VSproj/CS144/sponge-lab1-startercode/sponge-lab1-startercode/out/build/x64-Debug",
+  "command": "D:\\VS\\VS2022\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\tcp_helpers -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast /MDd /Zi /Ob0 /Od /RTC1 -ggdb3 -Og -std:c++17 /Fotests\\CMakeFiles\\fsm_stream_reassembler_holes.dir\\fsm_stream_reassembler_holes.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\tests\\fsm_stream_reassembler_holes.cc",
+  "file": "D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\tests\\fsm_stream_reassembler_holes.cc",
+  "output": "tests\\CMakeFiles\\fsm_stream_reassembler_holes.dir\\fsm_stream_reassembler_holes.cc.obj"
+},
+{
+  "directory": "D:/Z7Z8/VSproj/CS144/sponge-lab1-startercode/sponge-lab1-startercode/out/build/x64-Debug",
+  "command": "D:\\VS\\VS2022\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\tcp_helpers -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast /MDd /Zi /Ob0 /Od /RTC1 -ggdb3 -Og -std:c++17 /Fotests\\CMakeFiles\\fsm_stream_reassembler_many.dir\\fsm_stream_reassembler_many.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\tests\\fsm_stream_reassembler_many.cc",
+  "file": "D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\tests\\fsm_stream_reassembler_many.cc",
+  "output": "tests\\CMakeFiles\\fsm_stream_reassembler_many.dir\\fsm_stream_reassembler_many.cc.obj"
+},
+{
+  "directory": "D:/Z7Z8/VSproj/CS144/sponge-lab1-startercode/sponge-lab1-startercode/out/build/x64-Debug",
+  "command": "D:\\VS\\VS2022\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\tcp_helpers -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast /MDd /Zi /Ob0 /Od /RTC1 -ggdb3 -Og -std:c++17 /Fotests\\CMakeFiles\\fsm_stream_reassembler_overlapping.dir\\fsm_stream_reassembler_overlapping.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\tests\\fsm_stream_reassembler_overlapping.cc",
+  "file": "D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\tests\\fsm_stream_reassembler_overlapping.cc",
+  "output": "tests\\CMakeFiles\\fsm_stream_reassembler_overlapping.dir\\fsm_stream_reassembler_overlapping.cc.obj"
+},
+{
+  "directory": "D:/Z7Z8/VSproj/CS144/sponge-lab1-startercode/sponge-lab1-startercode/out/build/x64-Debug",
+  "command": "D:\\VS\\VS2022\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\tcp_helpers -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast /MDd /Zi /Ob0 /Od /RTC1 -ggdb3 -Og -std:c++17 /Fotests\\CMakeFiles\\fsm_stream_reassembler_win.dir\\fsm_stream_reassembler_win.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\tests\\fsm_stream_reassembler_win.cc",
+  "file": "D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\tests\\fsm_stream_reassembler_win.cc",
+  "output": "tests\\CMakeFiles\\fsm_stream_reassembler_win.dir\\fsm_stream_reassembler_win.cc.obj"
+},
+{
+  "directory": "D:/Z7Z8/VSproj/CS144/sponge-lab1-startercode/sponge-lab1-startercode/out/build/x64-Debug",
+  "command": "D:\\VS\\VS2022\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\tcp_helpers -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast /MDd /Zi /Ob0 /Od /RTC1 -ggdb3 -Og -std:c++17 /Fotests\\CMakeFiles\\byte_stream_construction.dir\\byte_stream_construction.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\tests\\byte_stream_construction.cc",
+  "file": "D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\tests\\byte_stream_construction.cc",
+  "output": "tests\\CMakeFiles\\byte_stream_construction.dir\\byte_stream_construction.cc.obj"
+},
+{
+  "directory": "D:/Z7Z8/VSproj/CS144/sponge-lab1-startercode/sponge-lab1-startercode/out/build/x64-Debug",
+  "command": "D:\\VS\\VS2022\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\tcp_helpers -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast /MDd /Zi /Ob0 /Od /RTC1 -ggdb3 -Og -std:c++17 /Fotests\\CMakeFiles\\byte_stream_one_write.dir\\byte_stream_one_write.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\tests\\byte_stream_one_write.cc",
+  "file": "D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\tests\\byte_stream_one_write.cc",
+  "output": "tests\\CMakeFiles\\byte_stream_one_write.dir\\byte_stream_one_write.cc.obj"
+},
+{
+  "directory": "D:/Z7Z8/VSproj/CS144/sponge-lab1-startercode/sponge-lab1-startercode/out/build/x64-Debug",
+  "command": "D:\\VS\\VS2022\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\tcp_helpers -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast /MDd /Zi /Ob0 /Od /RTC1 -ggdb3 -Og -std:c++17 /Fotests\\CMakeFiles\\byte_stream_two_writes.dir\\byte_stream_two_writes.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\tests\\byte_stream_two_writes.cc",
+  "file": "D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\tests\\byte_stream_two_writes.cc",
+  "output": "tests\\CMakeFiles\\byte_stream_two_writes.dir\\byte_stream_two_writes.cc.obj"
+},
+{
+  "directory": "D:/Z7Z8/VSproj/CS144/sponge-lab1-startercode/sponge-lab1-startercode/out/build/x64-Debug",
+  "command": "D:\\VS\\VS2022\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\tcp_helpers -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast /MDd /Zi /Ob0 /Od /RTC1 -ggdb3 -Og -std:c++17 /Fotests\\CMakeFiles\\byte_stream_capacity.dir\\byte_stream_capacity.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\tests\\byte_stream_capacity.cc",
+  "file": "D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\tests\\byte_stream_capacity.cc",
+  "output": "tests\\CMakeFiles\\byte_stream_capacity.dir\\byte_stream_capacity.cc.obj"
+},
+{
+  "directory": "D:/Z7Z8/VSproj/CS144/sponge-lab1-startercode/sponge-lab1-startercode/out/build/x64-Debug",
+  "command": "D:\\VS\\VS2022\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\tcp_helpers -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast /MDd /Zi /Ob0 /Od /RTC1 -ggdb3 -Og -std:c++17 /Fotests\\CMakeFiles\\byte_stream_many_writes.dir\\byte_stream_many_writes.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\tests\\byte_stream_many_writes.cc",
+  "file": "D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\tests\\byte_stream_many_writes.cc",
+  "output": "tests\\CMakeFiles\\byte_stream_many_writes.dir\\byte_stream_many_writes.cc.obj"
+},
+{
+  "directory": "D:/Z7Z8/VSproj/CS144/sponge-lab1-startercode/sponge-lab1-startercode/out/build/x64-Debug",
+  "command": "D:\\VS\\VS2022\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\tcp_helpers -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast /MDd /Zi /Ob0 /Od /RTC1 -ggdb3 -Og -std:c++17 /Fodoctests\\CMakeFiles\\address_dt.dir\\address_dt.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\doctests\\address_dt.cc",
+  "file": "D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\doctests\\address_dt.cc",
+  "output": "doctests\\CMakeFiles\\address_dt.dir\\address_dt.cc.obj"
+},
+{
+  "directory": "D:/Z7Z8/VSproj/CS144/sponge-lab1-startercode/sponge-lab1-startercode/out/build/x64-Debug",
+  "command": "D:\\VS\\VS2022\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\tcp_helpers -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast /MDd /Zi /Ob0 /Od /RTC1 -ggdb3 -Og -std:c++17 /Fodoctests\\CMakeFiles\\parser_dt.dir\\parser_dt.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\doctests\\parser_dt.cc",
+  "file": "D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\doctests\\parser_dt.cc",
+  "output": "doctests\\CMakeFiles\\parser_dt.dir\\parser_dt.cc.obj"
+},
+{
+  "directory": "D:/Z7Z8/VSproj/CS144/sponge-lab1-startercode/sponge-lab1-startercode/out/build/x64-Debug",
+  "command": "D:\\VS\\VS2022\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\util -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge\\tcp_helpers -ID:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\libsponge /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast /MDd /Zi /Ob0 /Od /RTC1 -ggdb3 -Og -std:c++17 /Fodoctests\\CMakeFiles\\socket_dt.dir\\socket_dt.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\doctests\\socket_dt.cc",
+  "file": "D:\\Z7Z8\\VSproj\\CS144\\sponge-lab1-startercode\\sponge-lab1-startercode\\doctests\\socket_dt.cc",
+  "output": "doctests\\CMakeFiles\\socket_dt.dir\\socket_dt.cc.obj"
+}
+]

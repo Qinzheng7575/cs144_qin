@@ -1,6 +1,9 @@
 #ifndef SPONGE_LIBSPONGE_BYTE_STREAM_HH
 #define SPONGE_LIBSPONGE_BYTE_STREAM_HH
-
+#define _LISTEN_ 0
+#define _SYN_RECV_ 1
+#define _FIN_RECV_ 2
+#define _ERROR_ 3
 #include "buffer.hh"
 #include <deque>
 #include <string>

@@ -7,8 +7,9 @@
   },
   "ExpandedNodes": [
     "",
-    "\\libsponge"
+    "\\libsponge",
+    "\\tests"
   ],
-  "SelectedNode": "\\libsponge\\stream_reassembler.hh",
+  "SelectedNode": "\\tests\\recv_transmit.cc",
   "PreviewInSolutionExplorer": false
 }

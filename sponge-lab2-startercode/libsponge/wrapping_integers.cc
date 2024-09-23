@@ -28,18 +28,23 @@ WrappingInt32 wrap(uint64_t n, WrappingInt32 isn) {
 //! and the other stream runs from the remote TCPSender to the local TCPReceiver and
 //! has a different ISN.
 uint64_t unwrap(WrappingInt32 n, WrappingInt32 isn, uint64_t checkpoint) {
-    //DUMMY_CODE(n, isn, checkpoint);
-    uint32_t ab_seqno_low = n - isn; //相减操作已经重载了
+    // DUMMY_CODE(n, isn, checkpoint);
+    uint32_t ab_seqno_low = n - isn;  // 相减操作已经重载了
     uint64_t ab_seqno = (checkpoint & 0xFFFFFFFF00000000) + ab_seqno_low;
 
-    uint64_t temp_low = ab_seqno - (1ULL << 32);
+    // temp_low = ab_seqno >= (1ULL << 32) ? ab_seqno - (1ULL << 32) : 0：计算序列号减 2^32，确保不出现负数。
+    uint64_t temp_low = ab_seqno >= (1ULL << 32) ? ab_seqno - (1ULL << 32) : 0;
     uint64_t temp_high = ab_seqno + (1ULL << 32);
     uint64_t closest = ab_seqno;
-    if (std::llabs((int64_t)(temp_low - checkpoint)) < std::llabs((int64_t)(closest - checkpoint))) {
-        closest = temp_low;
-    }
-    if (std::llabs((int64_t)(temp_high - checkpoint)) < std::llabs((int64_t)(closest - checkpoint))) {
+
+    if (std::llabs(static_cast<int64_t>(temp_high - checkpoint)) <
+        std::llabs(static_cast<int64_t>(closest - checkpoint))) {
         closest = temp_high;
+    }
+    if (ab_seqno >= (1ULL << 32) &&
+        std::llabs(static_cast<int64_t>(temp_low - checkpoint)) <
+        std::llabs(static_cast<int64_t>(closest - checkpoint))) {
+        closest = temp_low;
     }
     return closest;
 }

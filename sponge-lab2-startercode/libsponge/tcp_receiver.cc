@@ -1,8 +1,5 @@
 #include "tcp_receiver.hh"
-#define _LISTEN_ 0
-#define _SYN_RECV_ 1
-#define _FIN_RECV_ 2
-#define _ERROR_ -1
+
 // Dummy implementation of a TCP receiver
 
 // For Lab 2, please replace with a real implementation that passes the
@@ -34,10 +31,11 @@ bool TCPReceiver::segment_received(const TCPSegment &seg) {
 
     uint64_t stream_index = ab_seqno - 1 + (header.syn ? 1 : 0);
     _reassembler.push_substring(seg.payload().copy(), stream_index, header.fin);
-    return True;
+    return true;
 }
 
 optional<WrappingInt32> TCPReceiver::ackno() const { 
+    uint64_t ack_no = 0;
     if (_reassembler.stream_out().input_ended()) {
         _STATE_ = _FIN_RECV_;
     }
@@ -45,15 +43,14 @@ optional<WrappingInt32> TCPReceiver::ackno() const {
         case _LISTEN_:
             return nullopt;
         case _SYN_RECV_:
-            uint64_t ackno = _reassembler.stream_out().bytes_written() + 1;
-            break;
+            ack_no = _reassembler.stream_out().bytes_written() + 1;
+            return WrappingInt32(_isn) + ack_no; 
         case _FIN_RECV_:
-            uint64_t ackno = _reassembler.stream_out().bytes_written() + 2;
-            break;
+            ack_no = _reassembler.stream_out().bytes_written() + 2;
+            return WrappingInt32(_isn) + ack_no; 
         default:
             break;
     }
-    return WrappingInt32(_isn) + ackno; 
 }
 
 size_t TCPReceiver::window_size() const { return {_capacity - _reassembler.stream_out().buffer_size()}; }

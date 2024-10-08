@@ -11,7 +11,7 @@ void DUMMY_CODE(Targs &&... /* unused */) {}
 using namespace std;
 
 bool TCPReceiver::segment_received(const TCPSegment &seg) {
-    _STATE_ = _LISTEN_;//syn报文还没来
+    //_STATE_ = _LISTEN_;//syn报文还没来
     const TCPHeader &header = seg.header();
 
     switch (_STATE_) {
@@ -49,7 +49,7 @@ optional<WrappingInt32> TCPReceiver::ackno() const {
             ack_no = _reassembler.stream_out().bytes_written() + 2;
             return WrappingInt32(_isn) + ack_no; 
         default:
-            break;
+            return nullopt;
     }
 }
 

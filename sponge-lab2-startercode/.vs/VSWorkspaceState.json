@@ -8,8 +8,8 @@
   "ExpandedNodes": [
     "",
     "\\libsponge",
-    "\\tests"
+    "\\libsponge\\util"
   ],
-  "SelectedNode": "\\tests\\recv_transmit.cc",
+  "SelectedNode": "\\libsponge\\byte_stream.cc",
   "PreviewInSolutionExplorer": false
 }

@@ -1,5 +1,8 @@
 #ifndef SPONGE_LIBSPONGE_TCP_RECEIVER_HH
 #define SPONGE_LIBSPONGE_TCP_RECEIVER_HH
+#define _LISTEN_ 1
+#define _SYN_RECV_ 2
+#define _FIN_RECV_ 3
 
 #include "byte_stream.hh"
 #include "stream_reassembler.hh"
@@ -26,7 +29,7 @@ class TCPReceiver {
     //!
     //! \param capacity the maximum number of bytes that the receiver will
     //!                 store in its buffers at any give time.
-    TCPReceiver(const size_t capacity) : _isn(0), _STATE_(), _reassembler(capacity), _capacity(capacity) {}
+    TCPReceiver(const size_t capacity) : _isn(0), _STATE_(_LISTEN_), _reassembler(capacity), _capacity(capacity) {}
 
     //! \name Accessors to provide feedback to the remote TCPSender
     //!@{
